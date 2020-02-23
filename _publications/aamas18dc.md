@@ -1,7 +1,7 @@
 ---
 title: "Incident Prediction and Response Optimization"
 collection: publications
-permalink: /publications/aamas18dc.pdf
+permalink: /publications/aamas18dc
 venue: 17th Conference on Autonomous Agents and MultiAgent Systems (AAMAS 2018 - Doctoral Symposium)
 ---
 [[PDF]](https://ayanmukhopadhyay.github.io/files/aamas18dc.pdf)

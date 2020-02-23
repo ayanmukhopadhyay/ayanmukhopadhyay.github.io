@@ -1,7 +1,7 @@
 ---
 title: "Prioritized Allocation of Emergency Responders based on a Continuous-Time Incident Prediction Model"
 collection: publications
-permalink: /publications/aamas17.pdf
+permalink: /publications/aamas17
 venue: 16th Conference on Autonomous Agents and MultiAgent Systems (AAMAS 2017)
 ---
 

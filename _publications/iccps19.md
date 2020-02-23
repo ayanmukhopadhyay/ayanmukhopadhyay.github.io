@@ -3,7 +3,6 @@ title: "An online decision-theoretic pipeline for responder dispatch"
 collection: publications
 permalink: /publications/iccps19
 venue: "The 10th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS 2019)"
-date: 2019-05-01
 ---
 
 [[PDF]](https://arxiv.org/pdf/1902.08274.pdf)

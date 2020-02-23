@@ -1,7 +1,7 @@
 ---
 title: "On Algorithmic Decision Procedures in Emergency Response Systems in Smart and Connected Communities"
 collection: publications
-permalink: /publications/aamas20.pdf
+permalink: /publications/aamas20
 venue: 19th Conference on Autonomous Agents and MultiAgent Systems (AAMAS 2020)
 ---
 

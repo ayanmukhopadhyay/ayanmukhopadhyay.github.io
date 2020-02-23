@@ -1,7 +1,7 @@
 ---
 title: "Optimal Allocation of Police Patrol Resources Using a Continuous-Time Crime Model"
 collection: publications
-permalink: /publications/gamesec16.pdf
+permalink: /publications/gamesec16
 venue: "7th International Conference on Decision and Game Theory for Security. (GameSec 2016)"
 ---
 

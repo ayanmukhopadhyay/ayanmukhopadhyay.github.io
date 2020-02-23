@@ -1,7 +1,7 @@
 ---
 title: "A Decision Theoretic Framework for Emergency Responder Dispatch"
 collection: publications
-permalink: /publications/aamas18.pdf
+permalink: /publications/aamas18
 venue: 17th Conference on Autonomous Agents and MultiAgent Systems (AAMAS 2018)
 ---
 

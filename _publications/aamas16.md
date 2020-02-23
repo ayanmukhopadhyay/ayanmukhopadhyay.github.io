@@ -1,7 +1,7 @@
 ---
 title: "Using abstractions to solve opportunistic crime security games at scale."
 collection: publications
-permalink: /publications/aamas16.pdf
+permalink: /publications/aamas16
 venue: 16th Conference on Autonomous Agents and MultiAgent Systems (AAMAS 2017)
 ---
 
