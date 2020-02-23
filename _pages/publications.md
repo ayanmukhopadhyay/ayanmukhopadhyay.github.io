@@ -48,6 +48,6 @@ Ayan Mukhopadhyay,Yevgeniy Vorobeychik.
 Ayan Mukhopadhyay, Zilin Wang, Yevgeniy Vorobeychik.
 <i>The AAMAS-17 Workshop on Adversarial Reasoning in Multi-agent Systems</i> <b>ADVERSE at AAMAS 2016</b>.
 
-<b>[Optimal allocation of police patrol resources using a continuous-time crime model](http://ayanmukhopadhyay.github.io/publications/aisoc17)</b><br>
+<b>[Optimal allocation of police patrol resources using a continuous-time crime model](http://ayanmukhopadhyay.github.io/publications/gamesec16)</b><br>
 <b>Ayan Mukhopadhyay, Chao Zhang, Yevgeniy Vorobeychik, Milind Tambe, Kenneth Pence, Paul Speer. <i>The AAAI 2017 Spring Symposium on AI for Social Good.</i> <b>AISOC at AAAI (spring) 2017</b>.
 
