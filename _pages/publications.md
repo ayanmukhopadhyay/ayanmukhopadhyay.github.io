@@ -1,5 +1,5 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=1lNZTdMAAAAJ&hl=en)"
+title: "Publications and Patents [(Google Scholar Profile)](https://scholar.google.com/citations?user=1lNZTdMAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
@@ -51,3 +51,14 @@ Ayan Mukhopadhyay, Zilin Wang, Yevgeniy Vorobeychik.
 <b>[Optimal allocation of police patrol resources using a continuous-time crime model](http://ayanmukhopadhyay.github.io/publications/gamesec16)</b><br>
 <b>Ayan Mukhopadhyay, Chao Zhang, Yevgeniy Vorobeychik, Milind Tambe, Kenneth Pence, Paul Speer. <i>The AAAI 2017 Spring Symposium on AI for Social Good.</i> <b>AISOC at AAAI (spring) 2017</b>.
 
+<br>
+<b>Patents</b>
+<br>
+
+A Security Device<br>
+Ayan Mukhopadhyay, Suman Tiwari, Harinandan Tunga.
+<i>Reference: E-2/2217/2013-KOL, Application: 616/KOL/2012. (Publication and Patent Pending)</i>
+
+Hybrid Car Power Transition Mechanism<br>
+Ankit Narsaria, Ayan Mukhopadhyay, Suman Tiwari.
+<i>Official Journal Of The Patent Office, Government of India, Issue No. 31/2012. (PatentPending)</i>
