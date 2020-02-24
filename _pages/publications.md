@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>Peer-reviewed Conferences</b>
+<b><u>Peer-reviewed Conferences</u></b>
 <br>
 
 <b>[On Algorithmic Decision Procedures in Emergency Response Systems in Smart and Connected Communities](http://ayanmukhopadhyay.github.io/publications/aamas20)</b> <br> 
@@ -37,7 +37,7 @@ Chao Zhang, Victor Bucarey, Ayan Mukhopadhyay, Arunesh Sinha, Yundi Qian, Yevgen
 <i>The 15th Conference on Autonomous Agents and MultiAgent Systems</i>. <b>AAMAS 2016</b>.
 
 <br>
-<b>Peer-reviewed Workshops</b>
+<b><u>Peer-reviewed Workshops</u></b>
 <br>
 
 <b>[A Pipeline for Emergency Response](http://ayanmukhopadhyay.github.io/publications/iclr19)</b><br>
@@ -52,7 +52,7 @@ Ayan Mukhopadhyay, Zilin Wang, Yevgeniy Vorobeychik.
 <b>Ayan Mukhopadhyay, Chao Zhang, Yevgeniy Vorobeychik, Milind Tambe, Kenneth Pence, Paul Speer. <i>The AAAI 2017 Spring Symposium on AI for Social Good.</i> <b>AISOC at AAAI (spring) 2017</b>.
 
 <br>
-<b>Patents</b>
+<b><u>Patents</u></b>
 <br>
 
 A Security Device<br>
