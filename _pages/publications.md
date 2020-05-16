@@ -8,7 +8,7 @@ author_profile: true
 <br>
 
 <b>Robust Spatial-Temporal Incident Prediction</b> <br> 
-Ayan Mukhopadhyay, Kai Wang, Andrew Perrault, Mykel Kochenderfer, Milind Tambe, and Yevgeniy Vorobeychik
+Ayan Mukhopadhyay, Kai Wang, Andrew Perrault, Mykel Kochenderfer, Milind Tambe, and Yevgeniy Vorobeychik.
 <i>36th Conference on Uncertainty in Artificial Intelligence</i>. <b>UAI 2020 (to appear)</b>.
 
 <b>[On Algorithmic Decision Procedures in Emergency Response Systems in Smart and Connected Communities](http://ayanmukhopadhyay.github.io/publications/aamas20)</b> <br> 
