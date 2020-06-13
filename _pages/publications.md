@@ -3,6 +3,15 @@ title: "Publications and Patents"
 permalink: /publications/
 author_profile: true
 ---
+
+<br>
+<b><u>Pre-Prints</u></b>
+<br>
+<b>A Review of Emergency Incident Prediction, Resource Allocation and Dispatch Models</b> <br>
+Ayan Mukhopadhyay, Geoffrey Pettet, Sayyed Vazirizade, Yevgeniy Vorobeychik, Mykel Kochenderfer, Abhishek Dubey
+<i>arXiv pre-print [https://arxiv.org/abs/2006.04200](https://arxiv.org/abs/2006.04200)
+
+
 <br>
 <b><u>Peer-reviewed Conferences</u></b>
 <br>
@@ -12,7 +21,7 @@ Ayan Mukhopadhyay, Kai Wang, Andrew Perrault, Mykel Kochenderfer, Milind Tambe, 
 <i>36th Conference on Uncertainty in Artificial Intelligence</i>. <b>UAI 2020 (to appear)</b>.
 
 <b>[On Algorithmic Decision Procedures in Emergency Response Systems in Smart and Connected Communities](http://ayanmukhopadhyay.github.io/publications/aamas20)</b> <br> 
-Geoffrey Pettet,Ayan Mukhopadhyay, Mykel Kochenderfer, Yevgeniy Vorobeychik, Abhishek Dubey.
+Geoffrey Pettet, Ayan Mukhopadhyay, Mykel Kochenderfer, Yevgeniy Vorobeychik, Abhishek Dubey.
 <i>The 19th Conference on Autonomous Agents and MultiAgent Systems</i>. <b>AAMAS 2020</b>.
 
 <b>[An Online Decision-Theoretic Framework for Responder
