@@ -18,11 +18,13 @@ author_profile: true
             <li>EC 2018</li>
             <li>AAMAS 2019</li>
         </ol> 
+    </li>
     <li> Journals:
         <ol>
             <li>Artificial Intelligence Review</li>
             <li>IEEE Access</li>
         </ol> 
+    </li>
 </ul>
 
 <br>
