@@ -10,7 +10,6 @@ Crimes like wildlife poaching and smuggling can be tackled by spatial-temporal i
 
 To know more about out this project, read our latest paper from UAI 2020 [[here]](https://ayanmukhopadhyay.github.io/files/UAI_full.pdf), or check the publications page for earlier publications.
 
-<br>
 
 <b>Emergency Response Management Pipelines for Smart Cities</b> <br> 
 
@@ -18,7 +17,6 @@ Emergency response management (ERM) is a critical problem faced by communities a
 
 I am also one of the creators of [<b>StatResp</b>](https://statresp.ai/), an integrated open-source toolchain of statistical methods to aid emergency response. Read more about the work [[here]](https://ayanmukhopadhyay.github.io/files/aisg_iclr19.pdf)
 
-<br>
 
 <b>Wildifire Spread Modeling</b> <br> 
 

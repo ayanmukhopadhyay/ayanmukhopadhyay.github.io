@@ -24,6 +24,7 @@ author_profile: true
             <li>IEEE Access</li>
         </ol> 
 </ul>
+
 <br>
 
 <b>2. Commmittee Membership</b><br>
@@ -32,10 +33,10 @@ author_profile: true
     <li>Opt-Mas at AAMAS-20 (PC Member)</li>
     <li>CRCS AI for Social Good Workshop (PC Member)</li>
 </ol>
-<br><br>
+<br>
 
 
-<b>Teaching</b><br><br>
+<b>Teaching</b><br>
 
 <ol>
 <li> Technical Mentor -- CS for Good Impact Lab 2020 (Stanford University, Spring 2020)</li>

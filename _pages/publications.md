@@ -9,7 +9,7 @@ author_profile: true
 <br>
 <b>A Review of Emergency Incident Prediction, Resource Allocation and Dispatch Models</b> <br>
 Ayan Mukhopadhyay, Geoffrey Pettet, Sayyed Vazirizade, Yevgeniy Vorobeychik, Mykel Kochenderfer, Abhishek Dubey
-<i>arXiv pre-print [https://arxiv.org/abs/2006.04200](https://arxiv.org/abs/2006.04200)
+<i>([arXiv pre-print](https://arxiv.org/abs/2006.04200))
 
 
 <br>
