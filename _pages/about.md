@@ -19,10 +19,10 @@ I am particularly intersted in applying AI to real-world problems, especially on
 <b>Updates</b>
 
 <ul>
-    <li> I will talk about how robust incident prediction can combat poaching at the Cambridge Environmental Data Science Group's AI4ER Seminar Series. If you are interested in the intersection of data science and environment, consider [attending](http://talks.cam.ac.uk/talk/index/148537).</li> 
-    <li> I am one of the PC members of the amazing Harvard CRCS workshop on AI for Social Good. Consider submitting a paper or attend to hear about how AI can transform the society. Find details [here](https://aiforgood2020.github.io/).</li>
-    <li> A pre-print of our [survey paper](https://arxiv.org/abs/2006.04200) on how AI can be used to aid Emergency Response in smart cities is out and feedback would be appreciated.</li>
-    <li> Our work on robust spatial-temporal incident prediction was accepted at the 36th Conference on Uncertainty in Artificial Intelligence (UAI 2020).</li>
-    <li> We are creating [<b>StatResp</b>](https://statresp.ai/), an integrated open-source toolchain of statistical methods to aid emergency response. Read more about the work [[here]](https://ayanmukhopadhyay.github.io/files/aisg_iclr19.pdf).</li>
+    <li> I will talk about how robust incident prediction can combat poaching at the Cambridge Environmental Data Science Group's AI4ER Seminar Series. If you are interested in the intersection of data science and environment, consider <a href="https://talks.cam.ac.uk/talk/index/148537">attending</a>.</li> 
+    <li> I am one of the PC members of the amazing Harvard CRCS workshop on AI for Social Good. Consider submitting a paper or attend to hear about how AI can transform the society. Find details <a href="https://aiforgood2020.github.io/">here</a>.</li>
+    <li> A pre-print of our <a href="https://arxiv.org/abs/2006.04200">survey paper</a> on how AI can be used to aid Emergency Response in smart cities is out and feedback would be appreciated.</li>
+    <li> Our work on robust spatial-temporal incident prediction was accepted at the 36th Conference on Uncertainty in Artificial Intelligence (UAI 2020). </li>
+    <li> We are creating <a href="https://statresp.ai/"><b>Stat Resp</b></a>, an integrated open-source toolchain of statistical methods to aid emergency response.</li>
 </ul>
 
