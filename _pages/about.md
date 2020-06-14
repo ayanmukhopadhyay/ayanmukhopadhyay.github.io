@@ -14,3 +14,15 @@ I was <b>awarded the 2019 CARS post-doctoral fellowship</b> by the [Center of Au
 
 I am particularly intersted in applying AI to real-world problems, especially ones that have societal impacts. Much of my disseration focussed on using AI to aid proactive emergency response. My current work focusses on designing decentralized decision-making systems for emergency response, and also trying to understand how to tackle wildfires and heatwaves. This quarter, I am one of the mentors for [Stanford's CS+Social Good Impact Lab](https://cs4good.com/), helping undergraduate students use AI for social good. I am also one of the members of Stanford's energy committee, working on using predictive models to understand energy needs on campus. 
 
+<br>
+
+<b>Updates</b>
+
+<ul>
+    <li> I will talk about how robust incident prediction can combat poaching at the Cambridge Environmental Data Science Group's AI4ER Seminar Series. If you are interested in the intersection of data science and environment, consider [attending](http://talks.cam.ac.uk/talk/index/148537).</li> 
+    <li> I am one of the PC members of the amazing Harvard CRCS workshop on AI for Social Good. Consider submitting a paper or attend to hear about how AI can transform the society. Find details [here](https://aiforgood2020.github.io/).</li>
+    <li> A pre-print of our [survey paper](https://arxiv.org/abs/2006.04200) on how AI can be used to aid Emergency Response in smart cities is out and feedback would be appreciated.</li>
+    <li> Our work on robust spatial-temporal incident prediction was accepted at the 36th Conference on Uncertainty in Artificial Intelligence (UAI 2020).</li>
+    <li> We are creating [<b>StatResp</b>](https://statresp.ai/), an integrated open-source toolchain of statistical methods to aid emergency response. Read more about the work [[here]](https://ayanmukhopadhyay.github.io/files/aisg_iclr19.pdf).</li>
+</ul>
+
