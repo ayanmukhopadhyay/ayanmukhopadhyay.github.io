@@ -19,7 +19,8 @@ I am particularly intersted in applying AI to real-world problems, especially on
 <b>Updates</b>
 
 <ul>
-    <li> I will talk about how robust incident prediction can combat poaching at the Cambridge Environmental Data Science Group's AI4ER Seminar Series. If you are interested in the intersection of data science and environment, consider <a href="https://talks.cam.ac.uk/talk/index/148537">attending</a>.</li> 
+    <li> I will give a talk at Utah Center for Data Science's Summer Seminar Series on the 19th of June about robust machine learning models and smart emergency response. See the poster <a href="http://datascience.utah.edu/assets/img/club_photos/SSS-2020-05.pdf">here</a></li>
+    <li> I will talk about how robust incident prediction can combat poaching at the Cambridge Environmental Data Science Group's AI4ER Seminar Series on the 30th of June. If you are interested in the intersection of data science and environment, consider <a href="https://talks.cam.ac.uk/talk/index/148537">attending</a>.</li> 
     <li> I am one of the PC members of the amazing Harvard CRCS workshop on AI for Social Good. Consider submitting a paper or attend to hear about how AI can transform the society. Find details <a href="https://aiforgood2020.github.io/">here</a>.</li>
     <li> A pre-print of our <a href="https://arxiv.org/abs/2006.04200">survey paper</a> on how AI can be used to aid Emergency Response in smart cities is out and feedback would be appreciated.</li>
     <li> Our work on robust spatial-temporal incident prediction was accepted at the 36th Conference on Uncertainty in Artificial Intelligence (UAI 2020). </li>
