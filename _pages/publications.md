@@ -16,7 +16,7 @@ Ayan Mukhopadhyay, Geoffrey Pettet, Sayyed Vazirizade, Yevgeniy Vorobeychik, Myk
 <b><u>Peer-reviewed Conferences</u></b>
 <br>
 
-<b>Robust Spatial-Temporal Incident Prediction</b> <br> 
+<b>[Robust Spatial-Temporal Incident Prediction](http://ayanmukhopadhyay.github.io/publications/uai20)</b> <br> 
 Ayan Mukhopadhyay, Kai Wang, Andrew Perrault, Mykel Kochenderfer, Milind Tambe, and Yevgeniy Vorobeychik.
 <i>36th Conference on Uncertainty in Artificial Intelligence</i>. <b>UAI 2020 (to appear)</b>.
 
