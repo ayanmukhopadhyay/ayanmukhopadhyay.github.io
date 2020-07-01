@@ -4,10 +4,10 @@ permalink: /talks/
 author_profile: true
 ---
 
-1. <li> I gave a talk at the Utah Center for Data Science's Summer Seminar Series on the 19th of June about robust machine learning models and smart emergency response. See the poster <a href="http://datascience.utah.edu/assets/img/club_photos/SSS-2020-05.pdf">here</a>, and listen to the talk <a href="https://www.youtube.com/watch?v=LtIaj7szN5I&t=1143s">here</a></li>
+1. I gave a talk at the Utah Center for Data Science's Summer Seminar Series on the 19th of June about robust machine learning models and smart emergency response. See the poster <a href="http://datascience.utah.edu/assets/img/club_photos/SSS-2020-05.pdf">here</a>, and listen to the talk <a href="https://www.youtube.com/watch?v=LtIaj7szN5I&t=1143s">here</a>
 
 
-2. <li> I gave a talk about how robust incident prediction can combat poaching at the <a href="https://talks.cam.ac.uk/talk/index/148537">Cambridge Environmental Data Science Group's AI4ER Seminar Series</a> on the 30th of June. If you are interested in the intersection of data science and environment, listen to the talk <a href="https://www.dropbox.com/s/l55yg3ozk3po1l9/AyanMukhopadhyay300620.mp4?dl=0">here</a>.</li>  
+2. I gave a talk about how robust incident prediction can combat poaching at the <a href="https://talks.cam.ac.uk/talk/index/148537">Cambridge Environmental Data Science Group's AI4ER Seminar Series</a> on the 30th of June. If you are interested in the intersection of data science and environment, listen to the talk <a href="https://www.dropbox.com/s/l55yg3ozk3po1l9/AyanMukhopadhyay300620.mp4?dl=0">here</a>.
 
 
 3. A recent [talk](https://www.youtube.com/watch?v=5IMxgb4a1No&feature=youtu.be) I gave at Stanford's CARS (Center of Automotive Research) Annual Symposium.
