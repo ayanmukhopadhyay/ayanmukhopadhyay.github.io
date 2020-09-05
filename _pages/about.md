@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Post-Doctoral Research Fellow at the Stanford Intelligent Systems Lab at Stanford University, USA, working under [Prof. Mykel Kochenderfer](https://engineering.stanford.edu/people/mykel-kochenderfer). My research interests include multi-agent systems, robust machine learning and decision-making under uncertainty. 
+I am a Post-Doctoral Research Fellow at the Stanford Intelligent Systems Lab at Stanford University, USA, working under [Prof. Mykel Kochenderfer](https://engineering.stanford.edu/people/mykel-kochenderfer). My research interests include multi-agent systems, robust machine learning, and decision-making under uncertainty. 
 
 I was <b>awarded the 2019 CARS post-doctoral fellowship</b> by the [Center of Automotive Research at Stanford (CARS)](https://cars.stanford.edu/). Before joining Stanford, I was a PhD student at Vanderbilt University's Computational Economics Research Lab under [Prof. Eugene Vorobeychik](https://vorobeychik.com/). My thesis was <b>nominated for the Victor Lesser Distinguished Dissertation Award 2020</b>.  
 
