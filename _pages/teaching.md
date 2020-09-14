@@ -31,9 +31,11 @@ author_profile: true
 
 <b>2. Commmittee Membership</b><br>
 <ol>
-    <li>AAMAS-18 (Organizing Committee)</li>
+    <li>AAMAS-21 (PC Member)</li>
+    <li>AAAI-21 (PC Member)</li>
     <li>Opt-Mas at AAMAS-20 (PC Member)</li>
-    <li>CRCS AI for Social Good Workshop (PC Member)</li>
+    <li>CRCS AI for Social Good Workshop 2020 (PC Member)</li>
+    <li>AAMAS-18 (Organizing Committee)</li>
 </ol>
 <br>
 

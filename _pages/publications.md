@@ -8,7 +8,7 @@ author_profile: true
 <b><u>Pre-Prints</u></b>
 <br>
 <b>A Review of Emergency Incident Prediction, Resource Allocation and Dispatch Models</b> <br>
-Ayan Mukhopadhyay, Geoffrey Pettet, Sayyed Vazirizade, Yevgeniy Vorobeychik, Mykel Kochenderfer, Abhishek Dubey
+Ayan Mukhopadhyay, Geoffrey Pettet, Sayyed Vazirizade, Di Lu, Alex Jaimes, Yevgeniy Vorobeychik, Mykel Kochenderfer, Abhishek Dubey
 <i>([arXiv pre-print](https://arxiv.org/abs/2006.04200))
 
 
@@ -18,7 +18,7 @@ Ayan Mukhopadhyay, Geoffrey Pettet, Sayyed Vazirizade, Yevgeniy Vorobeychik, Myk
 
 <b>[Robust Spatial-Temporal Incident Prediction](http://ayanmukhopadhyay.github.io/publications/uai20)</b> <br> 
 Ayan Mukhopadhyay, Kai Wang, Andrew Perrault, Mykel Kochenderfer, Milind Tambe, and Yevgeniy Vorobeychik.
-<i>36th Conference on Uncertainty in Artificial Intelligence</i>. <b>UAI 2020 (to appear)</b>.
+<i>36th Conference on Uncertainty in Artificial Intelligence</i>. <b>UAI 2020</b>.
 
 <b>[On Algorithmic Decision Procedures in Emergency Response Systems in Smart and Connected Communities](http://ayanmukhopadhyay.github.io/publications/aamas20)</b> <br> 
 Geoffrey Pettet, Ayan Mukhopadhyay, Mykel Kochenderfer, Yevgeniy Vorobeychik, Abhishek Dubey.
