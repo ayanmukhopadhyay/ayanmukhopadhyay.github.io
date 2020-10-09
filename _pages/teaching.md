@@ -6,7 +6,7 @@ author_profile: true
 
 <b>Professional Services</b><br><br><br>
 
-<b>1. Peer-reviewed Conferences and Workshops</b><br>
+<b>Peer-reviewed Conferences and Workshops</b><br>
 
 <ol> 
     <li> AAAI Conference on Artificial Intelligence, 2021 (AAAI) (PC Member)</li>
@@ -26,7 +26,7 @@ author_profile: true
 
 <br>
 
-<b>1. Peer-reviewed Journals</b><br>
+<b>Peer-reviewed Journals</b><br>
 <ol>
     <li> Artificial Intelligence Review (Reviewer)</li>
     <li> IEEE Access (Reviewer)</li>
@@ -42,13 +42,13 @@ author_profile: true
 <li> "Robust Incident Forecasting for Conservation", University of Cambridge Environmental Data Science AI4ER Seminar Series 2020 (Invited Talk)</li>
 <li> "Transition to Research and Doctoral Programs", Stanford University CS+Social Good Impact Lab Panel 2020 (Invited Talk)</li>
 
+<br>
+
 <b>Others</b><br>
 <li> Member, Stanford Energy Systems Committee 2020</li>
 <li> Technical Mentor, Stanford CS+Social Good Impact Lab 2020</li>
 
-
 <br>
-
 
 <b>Teaching</b><br>
 
