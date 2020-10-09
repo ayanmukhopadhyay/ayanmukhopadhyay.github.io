@@ -4,8 +4,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<b>Professional Services</b><br><br><br>
-
 <b>Peer-reviewed Conferences and Workshops</b><br>
 
 <ol> 
