@@ -35,27 +35,29 @@ author_profile: true
 <br>
 
 <b>Talks and Tutorials</b><br>
-<li> "Smart Emergency Response", NSF Doctoral Consortium on Computational Sustainability, 2020 (CompSust-DC) (Tutorial)</li>
-<li> "Robust Incident Forecasting and Response", University of Utah Data Science Seminar 2020 (Invited Talk)</li>
-<li> "Robust Incident Forecasting for Conservation", University of Cambridge Environmental Data Science AI4ER Seminar Series 2020 (Invited Talk)</li>
-<li> "Transition to Research and Doctoral Programs", Stanford University CS+Social Good Impact Lab Panel 2020 (Invited Talk)</li>
+<ol>
+    <li> "Smart Emergency Response", NSF Doctoral Consortium on Computational Sustainability, 2020 (CompSust-DC) (Tutorial)</li>
+    <li> "Robust Incident Forecasting and Response", University of Utah Data Science Seminar 2020 (Invited Talk)</li>
+    <li> "Robust Incident Forecasting for Conservation", University of Cambridge Environmental Data Science AI4ER Seminar Series 2020 (Invited Talk)</li>
+    <li> "Transition to Research and Doctoral Programs", Stanford University CS+Social Good Impact Lab Panel 2020 (Invited Talk)</li>
+</ol>
 
 <br>
 
 <b>Others</b><br>
-<li> Member, Stanford Energy Systems Committee 2020</li>
-<li> Technical Mentor, Stanford CS+Social Good Impact Lab 2020</li>
+<ol>
+    <li> Member, Stanford Energy Systems Committee 2020</li>
+    <li> Technical Mentor, Stanford CS+Social Good Impact Lab 2020</li>
+</ol>
 
 <br>
 
 <b>Teaching</b><br>
 
 <ol>
-<li>Teaching Assistant -- Machine Learning (Vanderbilt University, Fall 2017)</li>
-
-<li>Teaching Assistant -- Artificial Intelligence (Vanderbilt University, Fall 2016)</li>
-
-<li> Mentorship -- I have mentored 3 undergraduate students, 2 PhD students, and 4 high school students as part of various roles at Vanderbilt and Stanford.</li>
+    <li>Teaching Assistant -- Machine Learning (Vanderbilt University, Fall 2017)</li>
+    <li>Teaching Assistant -- Artificial Intelligence (Vanderbilt University, Fall 2016)</li>
+    <li> Mentorship -- I have mentored 3 undergraduate students, 2 PhD students, and 4 high school students as part of various roles at Vanderbilt and Stanford.</li>
 </ol>
 
 
