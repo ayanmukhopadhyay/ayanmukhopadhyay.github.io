@@ -52,9 +52,20 @@ Chao Zhang, Victor Bucarey, Ayan Mukhopadhyay, Arunesh Sinha, Yundi Qian, Yevgen
 <br>
 <b><u>Peer-reviewed Workshops</u></b>
 <br>
+<b>[Uncertainty Aware Wildfire Management](http://ayanmukhopadhyay.github.io/publications/aaai20_wildfire)</b><br>
+Tina Diao, Samriddhi Singla, Ayan Mukhopadhyay, Ahmed Eldawy, Ross Shachter, Mykel Kochenderfer.
+<i>The AAAI Fall Symposium Series Workshop on AI for Social Good 2020</b>.
+
+<b>[Designing Emergency Response Pipelines : Lessons and Challenges](http://ayanmukhopadhyay.github.io/publications/aaai20_erm)</b><br>
+Ayan Mukhopadhyay, Geoffrey Pettet, Mykel Kochenderfer, Abhishek Dubey.
+<i>The AAAI Fall Symposium Series Workshop on AI for Social Good 2020</b>.
 
 <b>[A Pipeline for Emergency Response](http://ayanmukhopadhyay.github.io/publications/iclr19)</b><br>
 Ayan Mukhopadhyay,Yevgeniy Vorobeychik.
+<i>The ICLR-19 Workshop on AI for Social Good.</i> <b>AISG at ICLR 2019 [BEST PAPER AWARD]</b>.
+
+<b>[A Pipeline for Emergency Response](http://ayanmukhopadhyay.github.io/publications/iclr19)</b><br>
+Ayan Mukhopadhyay, Yevgeniy Vorobeychik.
 <i>The ICLR-19 Workshop on AI for Social Good.</i> <b>AISG at ICLR 2019 [BEST PAPER AWARD]</b>.
 
 <b>[Prioritized allocation of emergency responders based on a continuous-time incident prediction model](http://ayanmukhopadhyay.github.io/publications/aamas17)</b> <br>
