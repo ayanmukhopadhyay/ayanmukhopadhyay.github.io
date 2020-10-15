@@ -52,6 +52,7 @@ Chao Zhang, Victor Bucarey, Ayan Mukhopadhyay, Arunesh Sinha, Yundi Qian, Yevgen
 <br>
 <b><u>Peer-reviewed Workshops</u></b>
 <br>
+
 <b>[Uncertainty Aware Wildfire Management](http://ayanmukhopadhyay.github.io/publications/aaai20_wildfire)</b><br>
 Tina Diao, Samriddhi Singla, Ayan Mukhopadhyay, Ahmed Eldawy, Ross Shachter, Mykel Kochenderfer.
 <i>The AAAI Fall Symposium Series Workshop on AI for Social Good.</i> <b>AAAI-FSS AISG 2020</b>.
