@@ -1,7 +1,7 @@
 ---
 title: "Uncertainty Aware Wildfire Management"
 collection: publications
-permalink: /publications/uai20
+permalink: /publications/aaai20_wildfire
 venue: The AAAI Fall Symposium Series Workshop on AI for Social Good 2020
 ---
 
