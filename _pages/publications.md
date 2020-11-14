@@ -53,6 +53,10 @@ Chao Zhang, Victor Bucarey, Ayan Mukhopadhyay, Arunesh Sinha, Yundi Qian, Yevgen
 <b><u>Peer-reviewed Workshops</u></b>
 <br>
 
+<b>[WildfireDB: A Spatio-Temporal Dataset Combining Wildfire Occurrence with Relevant Covariates](http://ayanmukhopadhyay.github.io/publications/neurips20)</b><br>
+Samriddhi Singla, Tina Diao, Ayan Mukhopadhyay, Ahmed Eldawy, Ross Shachter, Mykel Kochenderfer.
+<i>AI for Earth Sciencis Workshop at NeurIPS 2020.</i> <b>AIES at NeurIPS 2020</b>.
+
 <b>[Uncertainty Aware Wildfire Management](http://ayanmukhopadhyay.github.io/publications/aaai20_wildfire)</b><br>
 Tina Diao, Samriddhi Singla, Ayan Mukhopadhyay, Ahmed Eldawy, Ross Shachter, Mykel Kochenderfer.
 <i>The AAAI Fall Symposium Series Workshop on AI for Social Good.</i> <b>AAAI-FSS AISG 2020</b>.
