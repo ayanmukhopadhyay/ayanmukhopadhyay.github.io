@@ -6,21 +6,26 @@ author_profile: true
 
 <b>Robust Spatial-Temporal Incident Prediction</b> <br> 
 
-Crimes like wildlife poaching and smuggling can be tackled by spatial-temporal incident forecasting. However, existing prediction methodologies fail to take an important issue in consideration -- agents that commit crimes can observe patrols and change their behavior. This project deals with modeling the interaction between existing off-the-shelf prediction algorithms and agents as a Stackelberg game, and designing patrol strategies that are robust to spatial shifts by agents. 
+I am interested in understanding how spatial-temporal incidents like accidents, medical calls, and crimes like wildlife poaching and illegal fishing occur. There are several fundamental technical challenges associated with such problems. First, such incidents are extremely sparse, so traditional machine learning systems cannot be used for forecasting. Second, existing prediction methodologies fail to tackle strategic manipulation -- agents that commit crimes like poaching can observe patrols and change their behavior. I work to design machine learning pipelines that can predict sparse incidents and also address distributional shifts due to strategic interactions.
 
-To know more about out this project, read our latest paper from UAI 2020 [[here]](https://ayanmukhopadhyay.github.io/files/UAI_full.pdf), or check the publications page for earlier publications.
+To know more about how to design robust forecasting approaches against strategic shifts, read our latest paper from UAI 2020 [[here]](https://ayanmukhopadhyay.github.io/files/UAI_full.pdf), or check the publications page for earlier publications.
 
 
-<b>Emergency Response Management Pipelines for Smart Cities</b> <br> 
+<b>Decision Making under Uncertainty for Smart Cities</b> <br> 
 
-Emergency response management (ERM) is a critical problem faced by communities across the globe. First-responders are constrained by limited resources, and must attend to different types of incidents like traffic accidents, fires, crime, and distress calls. This project deals with creating spatial-temporal predictive models for accidents and crimes, and designing multi-agent approaches to emergency response. Our work has been showcased at multiple global smart city summits, covered in the government technology magazine and won the best paper award at ICLR’s AI for Social Good Workshop. Read our [survey paper](https://arxiv.org/abs/2006.04200) summarizing the research in this space in the last few decades. 
+Multi-agent systems are a crucial part of smart cities. In various situations like emergency response, resource allocation under uncertainty plays a crucial role. First-responders are constrained by limited resources, and must attend to different types of incidents like traffic accidents, fires, crime, and distress calls. I work with first responders to design approaches to tackle decision-making for multiple agents under uncertainty. Our work has been showcased at multiple global smart city summits, covered in the government technology magazine and won the best paper award at ICLR’s AI for Social Good Workshop. Read our [survey paper](https://arxiv.org/abs/2006.04200) summarizing the research in this space in the last few decades. 
 
 I am also one of the creators of [<b>StatResp</b>](https://statresp.ai/), an integrated open-source toolchain of statistical methods to aid emergency response. Read more about the work [[here]](https://ayanmukhopadhyay.github.io/files/aisg_iclr19.pdf)
 
 
 <b>Wildifire Spread Modeling</b> <br> 
 
-I am currently working to understand how wildfires spread by using large-scale satelitte imagery. Our goals are three-fold in this project. First, we are creating <i>WildfireDB</i>, the first open-source and comprehensive database that links wildfire occurrence to features extracted from satellite imagery (>2 million data points). Second, we are trying to understand how wildfires spread as a function of relevant determinants like vegetation type and weather. Third, we are trying to understand how to best deploy resources to suppress wildfires when the true state of the wildfires cannot be observed. Read our workshop paper <a href="https://ayanmukhopadhyay.github.io/files/aaai_wildfire.pdf">here</a> to know more about this project.
+I am currently working to understand how wildfires spread by using large-scale satelitte imagery. Our goals are three-fold in this project. First, we are creating <i>WildfireDB</i>, the first open-source and comprehensive database that links wildfire occurrence to features extracted from satellite imagery (>2 million data points). Read our <a href="https://ayanmukhopadhyay.github.io/files/neurips20.pdf">paper</a> from the NeurIPS AI for Earth Sciences workshop to know more about this open-source database. Second, we are trying to understand how wildfires spread as a function of relevant determinants like vegetation type and weather. Third, we are trying to understand how to best deploy resources to suppress wildfires when the true state of the wildfires cannot be observed. Read our workshop paper <a href="https://ayanmukhopadhyay.github.io/files/aaai_wildfire.pdf">here</a> to know more about this project.
+
+
+<b>Transit Optimization for Smart Cities</b> <br>
+
+As cities grow, modes of transit diversify. I am currently studying fairness in transit allocation and design in smart cities and trying to understand how transportation demand can be forecasted and optimized.
 
 
 <b>Monarch Migration</b> <br> 
