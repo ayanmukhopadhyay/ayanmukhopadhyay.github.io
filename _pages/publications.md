@@ -16,7 +16,7 @@ Ayan Mukhopadhyay, Geoffrey Pettet, Sayyed Vazirizade, Di Lu, Alex Jaimes, Yevge
 <b><u>Peer-reviewed Conferences</u></b>
 <br>
 
-<b>[Raptor Join: In-situ Processing of Big Raster + Vector Data](https://ayanmukhopadhyay.github.io/files/icde21.pdf)
+<b>[Raptor Join: In-situ Processing of Big Raster + Vector Data](https://ayanmukhopadhyay.github.io/files/icde21.pdf)</b> <br>
 Samriddhi Singla, Ahmed Eldawy, Tina Diao, Ayan Mukhopadhyay, Elia Scudiero.
 <i>37th IEEE International Conference on Data Engineering</i>. (ICDE 2021)
 
