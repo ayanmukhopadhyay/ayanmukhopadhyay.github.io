@@ -16,6 +16,10 @@ Ayan Mukhopadhyay, Geoffrey Pettet, Sayyed Vazirizade, Di Lu, Alex Jaimes, Yevge
 <b><u>Peer-reviewed Conferences</u></b>
 <br>
 
+<b>[Hierarchical Planning for Resource Allocation in Emergency Response Systems](https://ayanmukhopadhyay.github.io/files/iccps21.pdf)</b> <br>
+Geoffrey Pettet, Ayan Mukhopadhyay, Mykel Kochenderfer, Abhishek Dubey.
+<i>12th ACM/IEEE International Conference on Cyber-Physical Systems</i>. <b>ICCPS 2021</b>.
+
 <b>[Raptor Join: In-situ Processing of Big Raster + Vector Data](https://ayanmukhopadhyay.github.io/files/icde21.pdf)</b> <br>
 Samriddhi Singla, Ahmed Eldawy, Tina Diao, Ayan Mukhopadhyay, Elia Scudiero.
 <i>37th IEEE International Conference on Data Engineering</i>. <b>ICDE 2021</b>.
