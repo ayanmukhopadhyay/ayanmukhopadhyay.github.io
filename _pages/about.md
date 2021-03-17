@@ -21,6 +21,8 @@ If you are interested in any of these research areas, feel free to reach out. I 
 <b>Updates</b>
 
 <ul>
+    <li>I am co-organizing the <a href="https://cpsiotdata.github.io/">Workshop on Data-Driven and Intelligent Cyber-Physical Systems (DI-CPS)</a> at ACM CPS Week.</li>
+    <li>I am one of the PC members for the <a href="https://amulyayadav.github.io/aasg2021/">Autonomous Agents for Social Good Workshop at AAMAS-21</a>! Consider attending if you are interested in how agent-based systems can help solve societal problems.</li>
     <li>Our work on using hierarchical planning to solve large scale resource allocation problems formulated as multi-agent semi-Markovian decision processes has been accepted at ICCPS 2021. See the paper <a href="https://ayanmukhopadhyay.github.io/files/iccps21.pdf">here</a></li>
     <li>Our work on processing large scale vector and raster datasets has been accepted at ICDE 2021 (in collaboration with Stanford and UC Riverside). See the paper here <a href="https://ayanmukhopadhyay.github.io/files/icde21.pdf">here</a></li>
     <li> We have created <b>WildfireDB</b>, the first open-source and comprehensive database with over 2 million data points, that links wildfire occurrences with relevant covariates extracted from satellite imagery. We will present details about the database at the AI for Earth Sciences workshop at NeurIPS 2020. See the paper <a href="https://ayanmukhopadhyay.github.io/files/neurips20.pdf">here</a> and access the database <a href="https://wildfire-modeling.github.io/">here</a>.</li>
