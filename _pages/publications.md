@@ -15,6 +15,9 @@ Ayan Mukhopadhyay, Geoffrey Pettet, Sayyed Vazirizade, Di Lu, Alex Jaimes, Yevge
 <br>
 <b><u>Peer-reviewed Conferences</u></b>
 <br>
+<b>[Energy and Emission Prediction for Mixed-Vehicle Transit Fleets Using Multi-Taskand Inductive Transfer Learning](https://ayanmukhopadhyay.github.io/files/ecml21.pdf)</b> <br>
+Michael Wilbur, Ayan Mukhopadhyay, Sayyed Vazirizade, Philip Pugliese, Aron Laszka, and Abhishek Dubey.
+<i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</i>. <b>ECML-PKDD 2021</b>.
 
 <b>[Hierarchical Planning for Resource Allocation in Emergency Response Systems](https://ayanmukhopadhyay.github.io/files/iccps21.pdf)</b> <br>
 Geoffrey Pettet, Ayan Mukhopadhyay, Mykel Kochenderfer, Abhishek Dubey.

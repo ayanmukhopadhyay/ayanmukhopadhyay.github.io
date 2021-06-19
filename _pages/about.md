@@ -21,6 +21,8 @@ If you are interested in any of these research areas, feel free to reach out. I 
 <b>Updates</b>
 
 <ul>
+    <li>Our work on Energy and Emission Prediction for Mixed-Vehicle Transit Fleets Using Multi-Taskand Inductive Transfer Learning has been accepted at ECML 2021.</li>
+    <li>I gave a talk at the Los Alamos National Lab's Seminar Series on "Multi-Agent Systems for Emergency Response." See the slides <a href="https://ayanmukhopadhyay.github.io/files/talks/MultiAgentEmergency.pdf">here</a>.</li>
     <li>I am co-organizing the <a href="https://cpsiotdata.github.io/">Workshop on Data-Driven and Intelligent Cyber-Physical Systems (DI-CPS)</a> at ACM CPS Week.</li>
     <li>I am one of the PC members for the <a href="https://amulyayadav.github.io/aasg2021/">Autonomous Agents for Social Good Workshop at AAMAS-21</a>! Consider attending if you are interested in how agent-based systems can help solve societal problems.</li>
     <li>Our work on using hierarchical planning to solve large scale resource allocation problems formulated as multi-agent semi-Markovian decision processes has been accepted at ICCPS 2021. See the paper <a href="https://ayanmukhopadhyay.github.io/files/iccps21.pdf">here</a></li>
