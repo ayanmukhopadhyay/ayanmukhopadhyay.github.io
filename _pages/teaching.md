@@ -43,6 +43,7 @@ author_profile: true
     <li> "Robust Incident Forecasting and Response", University of Utah Data Science Seminar 2020. Invited Talk. <a href="https://www.youtube.com/watch?v=LtIaj7szN5I&list=PLMsvlws5lSAb2cIyqmb7Ae7_omPK0m9hK&index=8">Video</a>.</li>
     <li> "Robust Incident Forecasting for Conservation", University of Cambridge Environmental Data Science AI4ER Seminar Series 2020. Invited Talk. <a href="https://www.dropbox.com/s/l55yg3ozk3po1l9/AyanMukhopadhyay300620.mp4?dl=0">Videp</a>.</li>
     <li> "Transition to Research and Doctoral Programs", Stanford University CS+Social Good Impact Lab Panel 2020 (Invited Panel)</li>
+    <li> "Intelligent Emergency Response", Center of Automotive Research at Stanford Annual Symposium 2019 (Invited Talk)</li> 
 </ol>
 
 <br>
@@ -58,9 +59,9 @@ author_profile: true
 <b>Teaching</b><br>
 
 <ol>
-    <li>Teaching Assistant -- Machine Learning (Vanderbilt University, Fall 2017)</li>
-    <li>Teaching Assistant -- Artificial Intelligence (Vanderbilt University, Fall 2016)</li>
-    <li> Mentorship -- I have mentored 3 undergraduate students, 2 PhD students, and 4 high school students as part of various roles at Vanderbilt and Stanford.</li>
+    <li> Guest Lecturer, AI and Society (Under-Graduate Level), Washington University in St.Louis, 2020.</li>
+    <li>Teaching Assistant -- Machine Learning (Graduate Level), Vanderbilt University, Fall 2017)</li>
+    <li>Teaching Assistant -- Artificial Intelligence (Under-Graduate/Graduate Level), Vanderbilt University, Fall 2016)</li>
 </ol>
 
 
