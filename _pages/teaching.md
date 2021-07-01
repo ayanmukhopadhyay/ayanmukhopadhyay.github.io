@@ -41,7 +41,7 @@ author_profile: true
     <li> Stanford University CS+Social Good Impact Lab Panel 2021. Invited Panel.</li>
     <li> "Smart Emergency Response", NSF Doctoral Consortium on Computational Sustainability, 2020 (CompSust-DC). Tutorial Talk. <a href="https://youtu.be/5OZszP4FTlw?t=386">Video</a>.</li>
     <li> "Robust Incident Forecasting and Response", University of Utah Data Science Seminar 2020. Invited Talk. <a href="https://www.youtube.com/watch?v=LtIaj7szN5I&list=PLMsvlws5lSAb2cIyqmb7Ae7_omPK0m9hK&index=8">Video</a>.</li>
-    <li> "Robust Incident Forecasting for Conservation", University of Cambridge Environmental Data Science AI4ER Seminar Series 2020. Invited Talk. <a href="https://www.dropbox.com/s/l55yg3ozk3po1l9/AyanMukhopadhyay300620.mp4?dl=0">Videp</a>.</li>
+    <li> "Robust Incident Forecasting for Conservation", University of Cambridge Environmental Data Science AI4ER Seminar Series 2020. Invited Talk. <a href="https://www.dropbox.com/s/l55yg3ozk3po1l9/AyanMukhopadhyay300620.mp4?dl=0">Video</a>.</li>
     <li> "Transition to Research and Doctoral Programs", Stanford University CS+Social Good Impact Lab Panel 2020 (Invited Panel)</li>
     <li> "Intelligent Emergency Response", Center of Automotive Research at Stanford Annual Symposium 2019 (Invited Talk)</li> 
 </ol>
