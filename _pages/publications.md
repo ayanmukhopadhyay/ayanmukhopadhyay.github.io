@@ -11,6 +11,10 @@ author_profile: true
 Ayan Mukhopadhyay, Geoffrey Pettet, Sayyed Vazirizade, Di Lu, Alex Jaimes, Yevgeniy Vorobeychik, Mykel Kochenderfer, Abhishek Dubey
 <i>([arXiv pre-print](https://arxiv.org/abs/2006.04200))
 
+<b>Hierarchical Planning for Dynamic Resource Allocation in Smart and Connected Communities</b> <br>
+Geoffrey Pettet, Ayan Mukhopadhyay, Mykel Kochenderfer, Abhishek Dubey
+<i>([Draft](https://ayanmukhopadhyay.github.io/files/tcps21.pdf))
+
 
 <br>
 <b><u>Peer-reviewed Conferences</u></b>
