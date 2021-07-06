@@ -25,7 +25,7 @@ Michael Wilbur, Ayan Mukhopadhyay, Sayyed Vazirizade, Philip Pugliese, Aron Lasz
 
 <b>[Hierarchical Planning for Resource Allocation in Emergency Response Systems](https://ayanmukhopadhyay.github.io/files/iccps21.pdf)</b> <br>
 Geoffrey Pettet, Ayan Mukhopadhyay, Mykel Kochenderfer, Abhishek Dubey.
-<i>12th ACM/IEEE International Conference on Cyber-Physical Systems</i>. <b>ICCPS 2021</b>.
+<i>12th ACM/IEEE International Conference on Cyber-Physical Systems</i>. <b>ICCPS 2021 [One of the best papers, invited to TCPS special issue]</b>.
 
 <b>[Raptor Join: In-situ Processing of Big Raster + Vector Data](https://ayanmukhopadhyay.github.io/files/icde21.pdf)</b> <br>
 Samriddhi Singla, Ahmed Eldawy, Tina Diao, Ayan Mukhopadhyay, Elia Scudiero.
@@ -70,7 +70,7 @@ Chao Zhang, Victor Bucarey, Ayan Mukhopadhyay, Arunesh Sinha, Yundi Qian, Yevgen
 
 <b>[WildfireDB: A Spatio-Temporal Dataset Combining Wildfire Occurrence with Relevant Covariates](http://ayanmukhopadhyay.github.io/publications/neurips20)</b><br>
 Samriddhi Singla, Tina Diao, Ayan Mukhopadhyay, Ahmed Eldawy, Ross Shachter, Mykel Kochenderfer.
-<i>AI for Earth Sciencis Workshop at NeurIPS 2020.</i> <b>AIES at NeurIPS 2020</b>.
+<i>AI for Earth Sciencis Workshop at NeurIPS 2020.</i> <b>AIES at NeurIPS 2020</b> </b>[Spotlight Talk]</b>.
 
 <b>[Uncertainty Aware Wildfire Management](http://ayanmukhopadhyay.github.io/publications/aaai20_wildfire)</b><br>
 Tina Diao, Samriddhi Singla, Ayan Mukhopadhyay, Ahmed Eldawy, Ross Shachter, Mykel Kochenderfer.
