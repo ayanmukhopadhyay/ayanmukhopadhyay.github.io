@@ -21,6 +21,7 @@ If you are interested in any of these research areas, feel free to reach out. I 
 <b>Updates</b>
 
 <ul>
+    <li> I am happy to named one of Google AI's Impact Scholars for the social good program! Excited to work with Helpmum, based out of Nigeria, to create data-driven methods for vaccine delivery. 
     <li>Our work on Energy and Emission Prediction for Mixed-Vehicle Transit Fleets Using Multi-Taskand Inductive Transfer Learning has been accepted at ECML 2021.</li>
     <li>I gave a talk at the Los Alamos National Lab's Seminar Series on "Multi-Agent Systems for Emergency Response." See the slides <a href="https://ayanmukhopadhyay.github.io/files/talks/MultiAgentEmergency.pdf">here</a>.</li>
     <li>I am co-organizing the <a href="https://cpsiotdata.github.io/">Workshop on Data-Driven and Intelligent Cyber-Physical Systems (DI-CPS)</a> at ACM CPS Week.</li>
