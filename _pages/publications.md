@@ -19,6 +19,10 @@ Geoffrey Pettet, Ayan Mukhopadhyay, Mykel Kochenderfer, Abhishek Dubey
 <br>
 <b><u>Peer-reviewed Conferences</u></b>
 <br>
+<b>[Learning Incident Prediction Models Over LargeGeographical Areas for Emergency Response Systems](https://ayanmukhopadhyay.github.io/files/ecml21.pdf)</b> <br>
+Sayyed Vazirizade, Ayan Mukhopadhyay, Geoffrey Pettet, Said El Said, Hiba Baroud, and Abhishek Dubey.
+<i>IEEE Conference on Smart Computing</i>. <b>SmartComp 2021</b>.
+
 <b>[Energy and Emission Prediction for Mixed-Vehicle Transit Fleets Using Multi-Taskand Inductive Transfer Learning](https://ayanmukhopadhyay.github.io/files/ecml21.pdf)</b> <br>
 Michael Wilbur, Ayan Mukhopadhyay, Sayyed Vazirizade, Philip Pugliese, Aron Laszka, and Abhishek Dubey.
 <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</i>. <b>ECML-PKDD 2021</b>.
