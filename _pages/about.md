@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist at Vanderbilt University, USA. My research interests include multi-agent systems, robust machine learning, and decision-making under uncertainty. I am honored to be one of Google AI's Impact Scholars for Social Good.
+I am a research scientist at Vanderbilt University, USA. My research interests include multi-agent systems, robust machine learning, and decision-making under uncertainty. I am honored to be one of the recipients of the Google AI Impact Scholar Award (2021) for Social Good.
 
 Prior to this, I was a Post-Doctoral Research Fellow at the Stanford Intelligent Systems Lab at Stanford University, USA, working under [Prof. Mykel Kochenderfer](https://engineering.stanford.edu/people/mykel-kochenderfer).  I was <b>awarded the 2019 CARS post-doctoral fellowship</b> by the [Center of Automotive Research at Stanford (CARS)](https://cars.stanford.edu/). Before joining Stanford, I was a PhD student at Vanderbilt University's Computational Economics Research Lab under [Prof. Eugene Vorobeychik](https://vorobeychik.com/). My thesis was <b>nominated for the Victor Lesser Distinguished Dissertation Award 2020</b>.  
 
@@ -21,7 +21,7 @@ If you are interested in any of these research areas or want to explore AI for s
 <b>Updates</b>
 
 <ul>
-    <li> Our work on learning incident prediction models from sparse data for emergency response has been accepted to IEEE SmartComp 2021. See the paper <a href="https://arxiv.org/abs/2106.08307">here</a></li>.
+    <li> Our work on learning incident prediction models from sparse data for emergency response has been accepted to IEEE SmartComp 2021. See the paper <a href="https://arxiv.org/abs/2106.08307">here.</a></li>
     <li> I am excited to named one of Google AI's Impact Scholars for the social good program! Excited to work with Helpmum, based out of Nigeria, to create data-driven methods for vaccine delivery. 
     <li>Our work on Energy and Emission Prediction for Mixed-Vehicle Transit Fleets Using Multi-Taskand Inductive Transfer Learning has been accepted at ECML 2021.</li>
     <li>I gave a talk at the Los Alamos National Lab's Seminar Series on "Multi-Agent Systems for Emergency Response." See the slides <a href="https://ayanmukhopadhyay.github.io/files/talks/MultiAgentEmergency.pdf">here</a>.</li>
