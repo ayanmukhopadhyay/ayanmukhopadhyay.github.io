@@ -19,7 +19,7 @@ Geoffrey Pettet, Ayan Mukhopadhyay, Mykel Kochenderfer, Abhishek Dubey
 <br>
 <b><u>Peer-reviewed Conferences</u></b>
 <br>
-<b>[Learning Incident Prediction Models Over LargeGeographical Areas for Emergency Response Systems](https://ayanmukhopadhyay.github.io/files/ecml21.pdf)</b> <br>
+<b>[Learning Incident Prediction Models Over Large Geographical Areas for Emergency Response Systems](https://ayanmukhopadhyay.github.io/files/smartComp21.pdf)</b> <br>
 Sayyed Vazirizade, Ayan Mukhopadhyay, Geoffrey Pettet, Said El Said, Hiba Baroud, and Abhishek Dubey.
 <i>IEEE Conference on Smart Computing</i>. <b>SmartComp 2021</b>.
 
