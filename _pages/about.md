@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist at Vanderbilt University, USA. My research interests include multi-agent systems, robust machine learning, and decision-making under uncertainty. I am honored to be one of the <b>recipients of the Google AI Impact Scholar Award (2021) for Social Good</b>.
+I am a research scientist at Vanderbilt University, USA. My research interests include multi-agent systems, robust machine learning, and decision-making under uncertainty. I am honored to be one of the recipients of the Google AI Impact Scholar Award (2021) for Social Good.
 
-Prior to this, I was a Post-Doctoral Research Fellow at the Stanford Intelligent Systems Lab at Stanford University, USA, working under [Prof. Mykel Kochenderfer](https://engineering.stanford.edu/people/mykel-kochenderfer).  I was <b>awarded the 2019 CARS post-doctoral fellowship</b> by the [Center of Automotive Research at Stanford (CARS)](https://cars.stanford.edu/). Before joining Stanford, I was a PhD student at Vanderbilt University's Computational Economics Research Lab under [Prof. Eugene Vorobeychik](https://vorobeychik.com/). My thesis was <b>nominated for the Victor Lesser Distinguished Dissertation Award 2020</b>.  
+Prior to this, I was a Post-Doctoral Research Fellow at the Stanford Intelligent Systems Lab at Stanford University, USA, working under [Prof. Mykel Kochenderfer](https://engineering.stanford.edu/people/mykel-kochenderfer).  I was awarded the 2019 CARS post-doctoral fellowship by the [Center of Automotive Research at Stanford (CARS)](https://cars.stanford.edu/). Before joining Stanford, I was a PhD student at Vanderbilt University's Computational Economics Research Lab under [Prof. Eugene Vorobeychik](https://vorobeychik.com/). My thesis was nominated for the Victor Lesser Distinguished Dissertation Award 2020.  
 
-I am particularly intersted in applying AI to real-world problems, especially ones that have societal impacts. Much of my disseration focussed on using AI to aid proactive emergency response. My current work focusses on designing decentralized decision-making systems for emergency response, understanding how crowdsourced reports can be used to infer emergency scenarios, and trying to understand how to tackle wildfires and heatwaves. At Stanford, I was one of the mentors for [Stanford's CS+Social Good Impact Lab](https://cs4good.com/), helping undergraduate students use AI for social good. 
+I am particularly intersted in applying AI to real-world problems, especially ones that have societal impacts. Much of my disseration focussed on using AI to aid proactive emergency response. My current work focusses on designing decentralized decision-making systems for emergency response, understanding how crowdsourced reports can be used to infer emergency scenarios, optimizing para-transit routing, trying to understand how to tackle wildfires and heatwaves, and designing deep learning methods for aiding conservation. At Stanford, I was one of the mentors for [Stanford's CS+Social Good Impact Lab](https://cs4good.com/), helping undergraduate students use AI for social good. 
 
 If you are interested in any of these research areas or want to explore AI for social good, feel free to reach out. I am happy to chat, learn, help, and collaborate!
 
@@ -21,6 +21,7 @@ If you are interested in any of these research areas or want to explore AI for s
 <b>Updates</b>
 
 <ul>
+    <li> Happy to receive a Microsoft AI for Earth grant to design deep learning methods for the conservation of monarch butterflies. See a pre-print of our paper <a href="https://www.biorxiv.org/content/10.1101/2021.07.23.453502v1">here.</a></li>
     <li> Our work on learning incident prediction models from sparse data for emergency response has been accepted to IEEE SmartComp 2021. See the paper <a href="https://arxiv.org/abs/2106.08307">here.</a></li>
     <li> I am excited to named one of Google AI's Impact Scholars for the social good program! Excited to work with Helpmum, based out of Nigeria, to create data-driven methods for vaccine delivery. 
     <li>Our work on Energy and Emission Prediction for Mixed-Vehicle Transit Fleets Using Multi-Taskand Inductive Transfer Learning has been accepted at ECML 2021.</li>
@@ -39,5 +40,3 @@ If you are interested in any of these research areas or want to explore AI for s
     <li> A pre-print of our <a href="https://arxiv.org/abs/2006.04200">survey paper</a> on how AI can be used to aid Emergency Response in smart cities is out and feedback would be appreciated.</li>
     <li> Our work on robust spatial-temporal incident prediction was accepted at the 36th Conference on Uncertainty in Artificial Intelligence (UAI 2020). </li>
     <li> We are creating <a href="https://statresp.ai/"><b>Stat Resp</b></a>, an integrated open-source toolchain of statistical methods to aid emergency response.</li>
-</ul>
-
