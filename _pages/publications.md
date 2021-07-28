@@ -15,6 +15,10 @@ Ayan Mukhopadhyay, Geoffrey Pettet, Sayyed Vazirizade, Di Lu, Alex Jaimes, Yevge
 Geoffrey Pettet, Ayan Mukhopadhyay, Mykel Kochenderfer, Abhishek Dubey
 <i>([Draft](https://ayanmukhopadhyay.github.io/files/tcps21.pdf))
 
+<b>Using Deep Learning to Count Monarch Butterflies in Dense Clusters</b> <br>
+Shruti Patel, Amogh Kulkarni, Ayan Mukhopadhyay, Karuna Gujar, Jaap de Roode
+<i>([Draft](https://www.biorxiv.org/content/10.1101/2021.07.23.453502v1.full))
+
 
 <br>
 <b><u>Peer-reviewed Conferences</u></b>
