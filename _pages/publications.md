@@ -27,7 +27,7 @@ Shruti Patel, Amogh Kulkarni, Ayan Mukhopadhyay, Karuna Gujar, Jaap de Roode
 Sayyed Vazirizade, Ayan Mukhopadhyay, Geoffrey Pettet, Said El Said, Hiba Baroud, and Abhishek Dubey.
 <i>IEEE Conference on Smart Computing</i>. <b>SmartComp 2021</b>.
 
-<b>[Energy and Emission Prediction for Mixed-Vehicle Transit Fleets Using Multi-Taskand Inductive Transfer Learning](https://ayanmukhopadhyay.github.io/files/ecml21.pdf)</b> <br>
+<b>[Energy and Emission Prediction for Mixed-Vehicle Transit Fleets Using Multi-Task and Inductive Transfer Learning](https://ayanmukhopadhyay.github.io/files/ecml21.pdf)</b> <br>
 Michael Wilbur, Ayan Mukhopadhyay, Sayyed Vazirizade, Philip Pugliese, Aron Laszka, and Abhishek Dubey.
 <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</i>. <b>ECML-PKDD 2021</b>.
 
