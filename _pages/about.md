@@ -21,7 +21,8 @@ If you are interested in any of these research areas or want to explore AI for s
 <b>Updates</b>
 
 <ul>
-    <li>Our paper on "The Raptor Join Operator for Processing Big Raster + Vector Data" has been accepted at ACM SIGSPATIAL 2021.</li>
+    <li>Our paper "Practitioner-Centric Approach for Early Incident Detection Using Crowdsourced Data for Emergency Services" has been accepted at ICDM 2021.</li>
+    <li>Our paper "The Raptor Join Operator for Processing Big Raster + Vector Data" has been accepted at ACM SIGSPATIAL 2021.</li>
     <li> Happy to receive a Microsoft AI for Earth grant to design deep learning methods for the conservation of monarch butterflies. See a pre-print of our paper <a href="https://www.biorxiv.org/content/10.1101/2021.07.23.453502v1">here.</a></li>
     <li> Our work on learning incident prediction models from sparse data for emergency response has been accepted at IEEE SmartComp 2021. See the paper <a href="https://arxiv.org/abs/2106.08307">here.</a></li>
     <li> I am excited to named one of Google AI's Impact Scholars for the social good program! Excited to work with Helpmum, based out of Nigeria, to create data-driven methods for vaccine delivery. Read more on the Google AI blog <a href="https://blog.google/technology/ai/30-new-ai-for-social-good-projects/">here.</a></li>

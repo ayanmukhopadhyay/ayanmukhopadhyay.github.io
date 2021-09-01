@@ -23,6 +23,16 @@ Shruti Patel, Amogh Kulkarni, Ayan Mukhopadhyay, Karuna Gujar, Jaap de Roode
 <br>
 <b><u>Peer-reviewed Conferences</u></b>
 <br>
+
+<b>Practitioner-Centric Approach for Early Incident Detection Using Crowdsourced Data for Emergency Services</b> <br>
+Yasas Senarath, Ayan Mukhopadhyay, Sayyed Mohsen Vazirizade, Hemant Purohit, Saideep Nannapaneni, and Abhishek Dubey.
+<i>International Conference on Data Mining</i>. <b>ICDM 2021</b>.
+
+
+<b>The Raptor Join Operator for Processing Big Raster + Vector Data</b> <br>
+Samriddhi Singla, Ahmed Eldawy, Tina Diao, Ayan Mukhopadhyay and Elia Scudiero.
+<i>ACM International Conference on Advances in Geographic Information Systems</i>. <b>ACM SIGSPATIAL 2021</b>.
+
 <b>[Learning Incident Prediction Models Over Large Geographical Areas for Emergency Response Systems](https://ayanmukhopadhyay.github.io/files/smartComp21.pdf)</b> <br>
 Sayyed Vazirizade, Ayan Mukhopadhyay, Geoffrey Pettet, Said El Said, Hiba Baroud, and Abhishek Dubey.
 <i>IEEE Conference on Smart Computing</i>. <b>SmartComp 2021</b>.
@@ -78,7 +88,7 @@ Chao Zhang, Victor Bucarey, Ayan Mukhopadhyay, Arunesh Sinha, Yundi Qian, Yevgen
 
 <b>[WildfireDB: A Spatio-Temporal Dataset Combining Wildfire Occurrence with Relevant Covariates](http://ayanmukhopadhyay.github.io/publications/neurips20)</b><br>
 Samriddhi Singla, Tina Diao, Ayan Mukhopadhyay, Ahmed Eldawy, Ross Shachter, Mykel Kochenderfer.
-<i>AI for Earth Sciencis Workshop at NeurIPS 2020.</i> <b>AIES at NeurIPS 2020</b> </b>[Spotlight Talk]</b>.
+<i>AI for Earth Sciencis Workshop at NeurIPS 2020.</i> <b>AIES at NeurIPS 2020</b> <b>[Spotlight Talk]</b>.
 
 <b>[Uncertainty Aware Wildfire Management](http://ayanmukhopadhyay.github.io/publications/aaai20_wildfire)</b><br>
 Tina Diao, Samriddhi Singla, Ayan Mukhopadhyay, Ahmed Eldawy, Ross Shachter, Mykel Kochenderfer.
@@ -90,10 +100,6 @@ Ayan Mukhopadhyay, Geoffrey Pettet, Mykel Kochenderfer, Abhishek Dubey.
 
 <b>[A Pipeline for Emergency Response](http://ayanmukhopadhyay.github.io/publications/iclr19)</b><br>
 Ayan Mukhopadhyay,Yevgeniy Vorobeychik.
-<i>The ICLR-19 Workshop on AI for Social Good.</i> <b>AISG at ICLR 2019 [BEST PAPER AWARD]</b>.
-
-<b>[A Pipeline for Emergency Response](http://ayanmukhopadhyay.github.io/publications/iclr19)</b><br>
-Ayan Mukhopadhyay, Yevgeniy Vorobeychik.
 <i>The ICLR-19 Workshop on AI for Social Good.</i> <b>AISG at ICLR 2019 [BEST PAPER AWARD]</b>.
 
 <b>[Prioritized allocation of emergency responders based on a continuous-time incident prediction model](http://ayanmukhopadhyay.github.io/publications/aamas17)</b> <br>
