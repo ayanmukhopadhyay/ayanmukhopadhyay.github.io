@@ -56,7 +56,7 @@ author_profile: true
     <li><b><a href="http://ayanmukhopadhyay.github.io/publications/aamas18">A Decision Theoretic Framework for Emergency Responder Dispatch</a></b> <br> 
     Ayan Mukhopadhyay, Zilin Wang, Yevgeniy Vorobeychik.
     <i>The 17th Conference on Autonomous Agents and MultiAgent Systems</i>. <b>AAMAS 2018</b>.</li>
-    <li><b><a href="http://ayanmukhopadhyay.github.io/publications/aamas18dc">Incident Prediction and Response Optimization]</b> <br> 
+    <li><b><a href="http://ayanmukhopadhyay.github.io/publications/aamas18dc">Incident Prediction and Response Optimization</a></b> <br> 
     Ayan Mukhopadhyay.
     <i>The 17th Conference on Autonomous Agents and MultiAgent Systems (Doctoral Consortium)</i>. <b>AAMAS 2018</b>.</li>
     <li><b><a href="http://ayanmukhopadhyay.github.io/publications/aamas17">Prioritized Allocation of Emergency Responders based on a Continuous-Time Incident Prediction Model</a></b> <br> 
