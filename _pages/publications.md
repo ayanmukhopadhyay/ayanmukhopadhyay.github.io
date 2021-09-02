@@ -64,7 +64,7 @@ author_profile: true
     <i>The 16th Conference on Autonomous Agents and MultiAgent Systems</i>. <b>AAMAS 2017</b>.</li>
     <li><b>[Optimal Allocation of Police Patrol Resources Using a Continuous-Time Crime Model](http://ayanmukhopadhyay.github.io/publications/gamesec16)</b> <br>
     Ayan Mukhopadhyay, Chao Zhang, Yevgeniy Vorobeychik, Milind Tambe, Kenneth Pence, Paul Speer.
-    <i>7th International Conference on Decision and Game Theory for Security. </i>. <b>GameSec 2016</b>.</li>
+    <i>7th International Conference on Decision and Game Theory for Security</i>. <b>GameSec 2016</b>.</li>
     <li><b>[Using abstractions to solve opportunistic crime security games at scale.](http://ayanmukhopadhyay.github.io/publications/aamas16)</b> <br>
     Chao Zhang, Victor Bucarey, Ayan Mukhopadhyay, Arunesh Sinha, Yundi Qian, Yevgeniy Vorobeychik, Milind Tambe.
     <i>The 15th Conference on Autonomous Agents and MultiAgent Systems</i>. <b>AAMAS 2016</b>.</li>
