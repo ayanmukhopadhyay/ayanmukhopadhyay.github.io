@@ -7,17 +7,17 @@ author_profile: true
 <br>
 <b><u>Pre-Prints</u></b>
 <br>
-<b>A Review of Emergency Incident Prediction, Resource Allocation and Dispatch Models</b> <br>
-Ayan Mukhopadhyay, Geoffrey Pettet, Sayyed Vazirizade, Di Lu, Alex Jaimes, Yevgeniy Vorobeychik, Mykel Kochenderfer, Abhishek Dubey
-<i>([arXiv pre-print](https://arxiv.org/abs/2006.04200))
-
-<b>Hierarchical Planning for Dynamic Resource Allocation in Smart and Connected Communities</b> <br>
-Geoffrey Pettet, Ayan Mukhopadhyay, Mykel Kochenderfer, Abhishek Dubey
-<i>([arXiv pre-print](https://arxiv.org/abs/2107.01292))
-
-<b>Using Deep Learning to Count Monarch Butterflies in Dense Clusters</b> <br>
-Shruti Patel, Amogh Kulkarni, Ayan Mukhopadhyay, Karuna Gujar, Jaap de Roode
-<i>([arXiv pre-print](https://www.biorxiv.org/content/10.1101/2021.07.23.453502v1.full))
+<ol>
+    <li><b>A Review of Emergency Incident Prediction, Resource Allocation and Dispatch Models</b> <br>
+    Ayan Mukhopadhyay, Geoffrey Pettet, Sayyed Vazirizade, Di Lu, Alex Jaimes, Yevgeniy Vorobeychik, Mykel Kochenderfer, Abhishek Dubey
+    <i>([arXiv pre-print](https://arxiv.org/abs/2006.04200))</li>
+    <li><b>Hierarchical Planning for Dynamic Resource Allocation in Smart and Connected Communities</b> <br>
+    Geoffrey Pettet, Ayan Mukhopadhyay, Mykel Kochenderfer, Abhishek Dubey
+    <i>([arXiv pre-print](https://arxiv.org/abs/2107.01292))</li>
+    <li><b>Using Deep Learning to Count Monarch Butterflies in Dense Clusters</b> <br>
+    Shruti Patel, Amogh Kulkarni, Ayan Mukhopadhyay, Karuna Gujar, Jaap de Roode
+    <i>([arXiv pre-print](https://www.biorxiv.org/content/10.1101/2021.07.23.453502v1.full))</li>
+</ol>
 
 
 <br>
