@@ -120,10 +120,3 @@ Ayan Mukhopadhyay, Suman Tiwari, Harinandan Tunga.
 Hybrid Car Power Transition Mechanism<br>
 Ankit Narsaria, Ayan Mukhopadhyay, Suman Tiwari.
 <i>Official Journal Of The Patent Office, Government of India, Issue No. 31/2012. (PatentPending)</i>
-
-
-<ol>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ol>
