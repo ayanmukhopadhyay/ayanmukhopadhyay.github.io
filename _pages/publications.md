@@ -50,7 +50,7 @@ author_profile: true
     Geoffrey Pettet, Ayan Mukhopadhyay, Mykel Kochenderfer, Yevgeniy Vorobeychik, Abhishek Dubey.
     <i>The 19th Conference on Autonomous Agents and MultiAgent Systems</i>. <b>AAMAS 2020</b>.</li>
     <li><b><a href="http://ayanmukhopadhyay.github.io/publications/iccps19">An Online Decision-Theoretic Framework for Responder
-    Dispatch]</b> <br> 
+    Dispatch</a></b> <br> 
     Ayan Mukhopadhyay, Geoffrey Pettet, Chinmaya Samal, Yevgeniy Vorobeychik, Abhishek Dubey.
     <i>The 10th ACM/IEEE Conference on Cyber-Physical Systems</i>. <b>ICCPS 2019</b>.</li>
     <li><b><a href="http://ayanmukhopadhyay.github.io/publications/aamas18">A Decision Theoretic Framework for Emergency Responder Dispatch</a></b> <br> 
