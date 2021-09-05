@@ -13,10 +13,10 @@ author_profile: true
     <a href="https://arxiv.org/abs/2006.04200">(arXiv pre-print)</a></li>
     <li><b>Hierarchical Planning for Dynamic Resource Allocation in Smart and Connected Communities</b><br>
     Geoffrey Pettet, Ayan Mukhopadhyay, Mykel Kochenderfer, Abhishek Dubey
-    <a href="https://arxiv.org/abs/2107.01292">(arXiv pre-print)</li>
+    <a href="https://arxiv.org/abs/2107.01292">(arXiv pre-print)</a></li>
     <li><b>Using Deep Learning to Count Monarch Butterflies in Dense Clusters</b> <br>
     Shruti Patel, Amogh Kulkarni, Ayan Mukhopadhyay, Karuna Gujar, Jaap de Roode
-    <a href="https://www.biorxiv.org/content/10.1101/2021.07.23.453502v1.full">(arXiv pre-print)</li>
+    <a href="https://www.biorxiv.org/content/10.1101/2021.07.23.453502v1.full">(arXiv pre-print)</a></li>
 </ol>
 
 
