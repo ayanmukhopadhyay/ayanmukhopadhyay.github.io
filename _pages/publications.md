@@ -28,8 +28,8 @@ author_profile: true
     <li><b>Practitioner-Centric Approach for Early Incident Detection Using Crowdsourced Data for Emergency Services</b> <br>
     Yasas Senarath, Ayan Mukhopadhyay, Sayyed Mohsen Vazirizade, Hemant Purohit, Saideep Nannapaneni, and Abhishek Dubey.
     <i>International Conference on Data Mining</i>. <b>ICDM 2021</b>.</li>
-    <li><b>The Raptor Join Operator for Processing Big Raster + Vector Data</b> <br>
-    Samriddhi Singla, Ahmed Eldawy, Tina Diao, Ayan Mukhopadhyay and Elia Scudiero.
+    <li><b><a href="https://ayanmukhopadhyay.github.io/files/sigspatial21.pdf">The Raptor Join Operator for Processing Big Raster + Vector Data</a></b><br>
+    Samriddhi Singla, Ahmed Eldawy, Tina Diao, Ayan Mukhopadhyay, and Elia Scudiero.
     <i>ACM International Conference on Advances in Geographic Information Systems</i>. <b>ACM SIGSPATIAL 2021</b>.</li>
     <li><b><a href="https://ayanmukhopadhyay.github.io/files/smartComp21.pdf">Learning Incident Prediction Models Over Large Geographical Areas for Emergency Response Systems</a></b><br>
     Sayyed Vazirizade, Ayan Mukhopadhyay, Geoffrey Pettet, Said El Said, Hiba Baroud, and Abhishek Dubey.</li>
