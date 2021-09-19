@@ -40,7 +40,7 @@ author_profile: true
     <li><b><a href="https://ayanmukhopadhyay.github.io/files/iccps21.pdf">Hierarchical Planning for Resource Allocation in Emergency Response Systems</a></b> <br>
     Geoffrey Pettet, Ayan Mukhopadhyay, Mykel Kochenderfer, Abhishek Dubey.
     <i>12th ACM/IEEE International Conference on Cyber-Physical Systems</i>. <b>ICCPS 2021 [One of the best papers, invited to TCPS special issue]</b>.</li>
-    <li><b><a href="https://ayanmukhopadhyay.github.io/files/icde21.pdf">Raptor Join: In-situ Processing of Big Raster + Vector Data</a></b> <br>
+    <li><b><a href="https://ayanmukhopadhyay.github.io/files/icde21.pdf">Experimental Study of Big Raster and Vector Database Systems</a></b> <br>
     Samriddhi Singla, Ahmed Eldawy, Tina Diao, Ayan Mukhopadhyay, Elia Scudiero.
     <i>37th IEEE International Conference on Data Engineering</i>. <b>ICDE 2021</b>.</li>
     <li><b><a href="http://ayanmukhopadhyay.github.io/publications/uai20">Robust Spatial-Temporal Incident Prediction</a></b> <br> 
