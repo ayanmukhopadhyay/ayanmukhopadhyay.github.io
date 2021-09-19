@@ -32,8 +32,7 @@ author_profile: true
     Samriddhi Singla, Ahmed Eldawy, Tina Diao, Ayan Mukhopadhyay, and Elia Scudiero.
     <i>ACM International Conference on Advances in Geographic Information Systems</i>. <b>ACM SIGSPATIAL 2021</b>.</li>
     <li><b><a href="https://ayanmukhopadhyay.github.io/files/smartComp21.pdf">Learning Incident Prediction Models Over Large Geographical Areas for Emergency Response Systems</a></b><br>
-    Sayyed Vazirizade, Ayan Mukhopadhyay, Geoffrey Pettet, Said El Said, Hiba Baroud, and Abhishek Dubey.</li>
-    <i>IEEE Conference on Smart Computing</i>. <b>SmartComp 2021</b>.
+    Sayyed Vazirizade, Ayan Mukhopadhyay, Geoffrey Pettet, Said El Said, Hiba Baroud, and Abhishek Dubey.<i>IEEE Conference on Smart Computing</i>. <b>SmartComp 2021</b>.</li>
     <li><b><a href="https://ayanmukhopadhyay.github.io/files/ecml21.pdf">Energy and Emission Prediction for Mixed-Vehicle Transit Fleets Using Multi-Task and Inductive Transfer Learning</a></b><br>
     Michael Wilbur, Ayan Mukhopadhyay, Sayyed Vazirizade, Philip Pugliese, Aron Laszka, and Abhishek Dubey.
     <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</i>. <b>ECML-PKDD 2021</b>.</li>
