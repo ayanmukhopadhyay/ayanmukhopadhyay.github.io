@@ -21,7 +21,7 @@ If you are interested in any of these research areas or want to explore AI for s
 <b>Updates</b>
 
 <ul>
-    <li>We are releasing WildfireDB, an open-source dataset with over 17 million data points that link wildfire occurrences with weather, topography, and other relevant features. See our <a href="https://ayanmukhopadhyay.github.io/files/neurips.pdf">Neurips 2021 DB track paper here.</a></li>  
+    <li>We are releasing WildfireDB, an open-source dataset with over 17 million data points that link wildfire occurrences with weather, topography, and other relevant features. See our <a href="https://ayanmukhopadhyay.github.io/files/neurips21.pdf">Neurips 2021 paper here (Track on Datasets and Benchmarks).</a></li>  
     <li>Our paper "Practitioner-Centric Approach for Early Incident Detection Using Crowdsourced Data for Emergency Services", in collaboration with George Mason University, has been accepted at ICDM 2021. See the paper <a href="https://ayanmukhopadhyay.github.io/files/icdm21.pdf">here.</a></li>
     <li>Our paper "The Raptor Join Operator for Processing Big Raster + Vector Data", in collaboration with Stanford and UC Riverside, has been accepted at ACM SIGSPATIAL 2021. See the paper <a href="https://ayanmukhopadhyay.github.io/files/sigspatial21.pdf">here.</a></li>
     <li> Happy to receive a Microsoft AI for Earth grant to design deep learning methods for the conservation of monarch butterflies. See a pre-print of our paper <a href="https://www.biorxiv.org/content/10.1101/2021.07.23.453502v1">here.</a></li>
