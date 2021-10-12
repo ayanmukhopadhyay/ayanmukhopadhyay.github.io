@@ -25,7 +25,11 @@ author_profile: true
 <br>
 
 <ol>
-    <li><b>Practitioner-Centric Approach for Early Incident Detection Using Crowdsourced Data for Emergency Services</b> <br>
+    <li><b><a href="https://ayanmukhopadhyay.github.io/files/neurips2021.pdf"><i>WildfireDB</i>: An Open-Source Dataset Connecting
+Wildfire Spread with Relevant Determinants</a></b> <br>
+    Samridhhi Singla, Ayan Mukhopadhyay, Michael Wilbur, Tina Diao, Vinayak Gajjewar, Ahmed Eldawy, Mykel Kochenderfer, Ross Shachter, Abhishek Dubey.
+    <i>Neural Information Processing Systems Track on Datasets and Benchmarks</i>. <b>NeurIPS 2021 (DB Track)</b>.</li>
+    <li><b><a href="https://ayanmukhopadhyay.github.io/files/icdm21.pdf">Practitioner-Centric Approach for Early Incident Detection Using Crowdsourced Data for Emergency Services</a></b> <br>
     Yasas Senarath, Ayan Mukhopadhyay, Sayyed Mohsen Vazirizade, Hemant Purohit, Saideep Nannapaneni, and Abhishek Dubey.
     <i>International Conference on Data Mining</i>. <b>ICDM 2021</b>.</li>
     <li><b><a href="https://ayanmukhopadhyay.github.io/files/sigspatial21.pdf">The Raptor Join Operator for Processing Big Raster + Vector Data</a></b><br>
