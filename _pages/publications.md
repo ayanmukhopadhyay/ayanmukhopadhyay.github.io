@@ -8,9 +8,6 @@ author_profile: true
 <b><u>Pre-Prints</u></b>
 <br>
 <ol>
-    <li><b>A Review of Emergency Incident Prediction, Resource Allocation and Dispatch Models</b> <br>
-    Ayan Mukhopadhyay, Geoffrey Pettet, Sayyed Vazirizade, Di Lu, Alex Jaimes, Yevgeniy Vorobeychik, Mykel Kochenderfer, Abhishek Dubey
-    <a href="https://arxiv.org/abs/2006.04200">(arXiv pre-print)</a></li>
     <li><b>Hierarchical Planning for Dynamic Resource Allocation in Smart and Connected Communities</b><br>
     Geoffrey Pettet, Ayan Mukhopadhyay, Mykel Kochenderfer, Abhishek Dubey
     <a href="https://arxiv.org/abs/2107.01292">(arXiv pre-print)</a></li>
@@ -19,9 +16,16 @@ author_profile: true
     <a href="https://www.biorxiv.org/content/10.1101/2021.07.23.453502v1.full">(arXiv pre-print)</a></li>
 </ol>
 
+<br>
+<b><u>Refereed Journals</u></b>
+<br>
+<ol>
+    <li><b><a href="https://ayanmukhopadhyay.github.io/files/neurips2021.pdf">A Review of Emergency Incident Prediction, Resource Allocation and Dispatch Models</a></b> <br>
+    Ayan Mukhopadhyay, Geoffrey Pettet, Sayyed Mohsen Vazirizade, Di Lu, Alex Jaimes, Said El Said, Hiba Baroud, Yevgeniy Vorobeychik, Mykel Kochenderfer, Abhishek Dubey. <i>Elsevier Journal on Accident Analysis and Prevention</i>, 2021 (to appear)</li>
+</ol>
 
 <br>
-<b><u>Peer-reviewed Conferences</u></b>
+<b><u>Refereed Conferences</u></b>
 <br>
 
 <ol>
@@ -74,7 +78,7 @@ Wildfire Spread with Relevant Determinants</a></b> <br>
 </ol>
 
 <br>
-<b><u>Peer-reviewed Workshops</u></b>
+<b><u>Refereed Workshops</u></b>
 <br>
 <ol>
     <li><b><a href="http://ayanmukhopadhyay.github.io/publications/neurips20">WildfireDB: A Spatio-Temporal Dataset Combining Wildfire Occurrence with Relevant Covariates</a></b><br>
