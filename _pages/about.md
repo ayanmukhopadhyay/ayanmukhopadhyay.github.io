@@ -21,6 +21,7 @@ If you are interested in any of these research areas or want to explore AI for s
 <b>Updates</b>
 
 <ul>
+    <li>Our paper on hierarchical decision-making for resource allocation in smart and connected communities has been accepted at the ACM Transactions on Cyber-Physical Systems. See the paper <a href="https://arxiv.org/pdf/2107.01292.pdf">here</a></li>.
     <li>We are releasing WildfireDB, an open-source dataset with over 17 million data points that link wildfire occurrences with weather, topography, and other relevant features. See our Neurips 2021 (Track on Datasets and Benchmarks) paper <a href="https://ayanmukhopadhyay.github.io/files/neurips2021.pdf">here</a>.</li>
   <li>Our paper "Practitioner-Centric Approach for Early Incident Detection Using Crowdsourced Data for Emergency Services", in collaboration with George Mason University, has been accepted at ICDM 2021. See the paper <a href="https://ayanmukhopadhyay.github.io/files/icdm21.pdf">here.</a></li>
   <li> We gave a <a href="https://ayanmukhopadhyay.github.io/files/tutorial_smartcomp21.pdf">tutorial on multi-agent emergency response systems</a> at IEEE <a href="https://www.smart-comp.info/tutorials.html">SmartComp 2021</a>. The videos of the talk are available <a href="https://youtube.com/playlist?list=PLZ5EcK0kbWDzuxsqNRUGmcGYP4_7GnGAI">on youtube</a>.</li>
