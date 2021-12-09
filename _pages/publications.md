@@ -18,7 +18,7 @@ author_profile: true
 <br>
 <ol>
     <li><b><a href="https://arxiv.org/pdf/2107.01292.pdf">Hierarchical Planning for Dynamic Resource Allocation in Smart and Connected Communities</a></b><br>
-    Geoffrey Pettet, Ayan Mukhopadhyay, Mykel Kochenderfer, Abhishek Dubey.<i>ACM Transactions on Cyber Physical Systems (TCPS)</i>, 2021 (to appear)</li>
+    Geoffrey Pettet, Ayan Mukhopadhyay, Mykel Kochenderfer, Abhishek Dubey.<i> ACM Transactions on Cyber Physical Systems (TCPS)</i>, 2021 (to appear)</li>
     <li><b><a href="https://ayanmukhopadhyay.github.io/files/neurips2021.pdf">A Review of Emergency Incident Prediction, Resource Allocation and Dispatch Models</a></b> <br>
     Ayan Mukhopadhyay, Geoffrey Pettet, Sayyed Mohsen Vazirizade, Di Lu, Alex Jaimes, Said El Said, Hiba Baroud, Yevgeniy Vorobeychik, Mykel Kochenderfer, Abhishek Dubey. <i>Elsevier Journal on Accident Analysis and Prevention</i>, 2021 (to appear).</li>
 </ol>
