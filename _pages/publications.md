@@ -8,9 +8,6 @@ author_profile: true
 <b><u>Pre-Prints</u></b>
 <br>
 <ol>
-    <li><b>Hierarchical Planning for Dynamic Resource Allocation in Smart and Connected Communities</b><br>
-    Geoffrey Pettet, Ayan Mukhopadhyay, Mykel Kochenderfer, Abhishek Dubey
-    <a href="https://arxiv.org/abs/2107.01292">(arXiv pre-print)</a></li>
     <li><b>Using Deep Learning to Count Monarch Butterflies in Dense Clusters</b> <br>
     Shruti Patel, Amogh Kulkarni, Ayan Mukhopadhyay, Karuna Gujar, Jaap de Roode
     <a href="https://www.biorxiv.org/content/10.1101/2021.07.23.453502v1.full">(arXiv pre-print)</a></li>
@@ -20,8 +17,10 @@ author_profile: true
 <b><u>Refereed Journals</u></b>
 <br>
 <ol>
+    <li><b><a href="https://arxiv.org/pdf/2107.01292.pdf">Hierarchical Planning for Dynamic Resource Allocation in Smart and Connected Communities</a></b><br>
+    Geoffrey Pettet, Ayan Mukhopadhyay, Mykel Kochenderfer, Abhishek Dubey.<i>ACM Transactions on Cyber Physical Systems (TCPS)</i>, 2021 (to appear)</li>
     <li><b><a href="https://ayanmukhopadhyay.github.io/files/neurips2021.pdf">A Review of Emergency Incident Prediction, Resource Allocation and Dispatch Models</a></b> <br>
-    Ayan Mukhopadhyay, Geoffrey Pettet, Sayyed Mohsen Vazirizade, Di Lu, Alex Jaimes, Said El Said, Hiba Baroud, Yevgeniy Vorobeychik, Mykel Kochenderfer, Abhishek Dubey. <i>Elsevier Journal on Accident Analysis and Prevention</i>, 2021 (to appear)</li>
+    Ayan Mukhopadhyay, Geoffrey Pettet, Sayyed Mohsen Vazirizade, Di Lu, Alex Jaimes, Said El Said, Hiba Baroud, Yevgeniy Vorobeychik, Mykel Kochenderfer, Abhishek Dubey. <i>Elsevier Journal on Accident Analysis and Prevention</i>, 2021 (to appear).</li>
 </ol>
 
 <br>
