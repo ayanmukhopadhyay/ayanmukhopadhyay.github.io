@@ -21,6 +21,7 @@ If you are interested in these research areas or want to explore AI for social g
 <b>Updates</b>
 
 <ul>
+    <li>Our work on optimizing heterogeneous resource allocation to increase vaccination uptake, in collaboration with HelpMum, Nigeria and the Google AI for Social Good Lab, was awarded the best presentation at the AI for Social Good 2022 workshop organized by Google Research.</li>
     <li>Our paper on developing an online approach to solve the dynamic vehicle routing problem with stochastic reuests has been accepted to ICCPS 2022. We specifically looked at how such an approach can benefit paratransit services.</li>
     <li>Our paper on hierarchical decision-making for resource allocation in smart and connected communities has been accepted at the ACM Transactions on Cyber-Physical Systems. See the paper <a href="https://arxiv.org/pdf/2107.01292.pdf">here</a>.</li>
     <li>We are releasing WildfireDB, an open-source dataset with over 17 million data points that link wildfire occurrences with weather, topography, and other relevant features. See our Neurips 2021 (Track on Datasets and Benchmarks) paper <a href="https://ayanmukhopadhyay.github.io/files/neurips2021.pdf">here</a>.</li>
