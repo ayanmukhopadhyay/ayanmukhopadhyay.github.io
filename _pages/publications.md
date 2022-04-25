@@ -28,6 +28,13 @@ author_profile: true
 <br>
 
 <ol>
+        <li><b><a href="https://arxiv.org/abs/2203.15127">An Online Approach to Solve the Dynamic Vehicle Routing Problem with Stochastic Trip Requests for Paratransit Services</a></b><br> Michael Wilbur, Salah Uddin Kadir, Youngseo Kim, Geoffrey Pettet, Ayan Mukhopadhyay, Philip Pugliese, Samitha Samaranayake, Aron Laszka, Abhishek Dubey.<i> ACM/IEEE International Conference on Cyber-Physical Systems</i>. <b>ICCPS 2022</b>.</li>    
+    <li><b>Offline Vehicle Routing Problem with Online Bookings: A Novel Problem Formulation with Applications to Paratransit</b> <br>
+    Amutheezan Sivagnanam, Salah Uddin Kadir, Ayan Mukhopadhyay, Philip Pugliese, Abhishek Dubey, Samitha Samaranayake, Aron Laszka.
+    <i>International Joint Conference on Artificial Intelligence</i>. <b>IJCAI 2022</b>.</li>    
+    <li><b>ADVISER: AI-Driven Vaccination Intervention Optimiser for Increasing Vaccine Uptake in Nigeria</b> <br>
+    Vineet Nair, Kritika Prakash, Michael Wilbur, Aparna Taneja, Corrine Namblard, Oyindamola Adeyemo, Abhishek Dubey, Abiodun Adereni, Milind Tambe, Ayan      Mukhopadhyay.
+    <i>International Joint Conference on Artificial Intelligence (AI for Social Good Track)</i>. <b>IJCAI 2022</b>.</li>    
     <li><b><a href="https://ayanmukhopadhyay.github.io/files/neurips2021.pdf"><i>WildfireDB</i>: An Open-Source Dataset Connecting
 Wildfire Spread with Relevant Determinants</a></b> <br>
     Samridhhi Singla, Ayan Mukhopadhyay, Michael Wilbur, Tina Diao, Vinayak Gajjewar, Ahmed Eldawy, Mykel Kochenderfer, Ross Shachter, Abhishek Dubey.
@@ -43,7 +50,8 @@ Wildfire Spread with Relevant Determinants</a></b> <br>
     <li><b><a href="https://ayanmukhopadhyay.github.io/files/ecml21.pdf">Energy and Emission Prediction for Mixed-Vehicle Transit Fleets Using Multi-Task and Inductive Transfer Learning</a></b><br>
     Michael Wilbur, Ayan Mukhopadhyay, Sayyed Vazirizade, Philip Pugliese, Aron Laszka, and Abhishek Dubey.
     <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</i>. <b>ECML-PKDD 2021</b>.</li>
-    <li><b><a href="https://ayanmukhopadhyay.github.io/files/iccps21.pdf">Hierarchical Planning for Resource Allocation in Emergency Response Systems</a></b> <br>
+    <li><b><a href="https://ayanmukhopadhyay.github.io/files/
+        21.pdf">Hierarchical Planning for Resource Allocation in Emergency Response Systems</a></b> <br>
     Geoffrey Pettet, Ayan Mukhopadhyay, Mykel Kochenderfer, Abhishek Dubey.
     <i>12th ACM/IEEE International Conference on Cyber-Physical Systems</i>. <b>ICCPS 2021 [One of the best papers, invited to TCPS special issue]</b>.</li>
     <li><b><a href="https://ayanmukhopadhyay.github.io/files/icde21.pdf">Experimental Study of Big Raster and Vector Database Systems</a></b> <br>
@@ -103,6 +111,8 @@ Wildfire Spread with Relevant Determinants</a></b> <br>
 <b><u>Patents</u></b>
 <br>
 <ol>
+<li>Forecasting Energy Consumption in a Mixed Transit Fleet<br>
+Abhishek Dubey, Michael Wilbur, Ayan Mukhopadhyay, Aron Laszka. <i>USA Provisional Patent Application, 2021.</i></li>
 <li>A Security Device<br>
 Ayan Mukhopadhyay, Suman Tiwari, Harinandan Tunga.
 <i>Reference: E-2/2217/2013-KOL, Application: 616/KOL/2012. (Publication and Patent Pending)</i></li>
