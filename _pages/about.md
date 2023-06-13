@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist at Vanderbilt University, USA. My research interests include multi-agent systems, robust machine learning, and decision-making under uncertainty. I am honored to be one of the recipients of the Google AI Impact Scholar Award (2021) for Social Good.
+I am a research scientist and an adjunct assistant professor at the department of computer science at Vanderbilt University, USA. My research interests include multi-agent systems, robust machine learning, and decision-making under uncertainty. I am honored to be one of the recipients of the Google AI Impact Scholar Award (2021) for Social Good.
 
 Prior to this, I was a Post-Doctoral Research Fellow at the Stanford Intelligent Systems Lab at Stanford University, USA, working under [Prof. Mykel Kochenderfer](https://engineering.stanford.edu/people/mykel-kochenderfer). I was awarded the 2019 CARS post-doctoral fellowship by the [Center of Automotive Research at Stanford (CARS)](https://cars.stanford.edu/). Before joining Stanford, I was a Ph.D. student at Vanderbilt University's Computational Economics Research Lab under [Prof. Eugene Vorobeychik](https://vorobeychik.com/). My thesis was nominated for the Victor Lesser Distinguished Dissertation Award 2020.  
 
